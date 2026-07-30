@@ -1,6 +1,6 @@
 # Anthropic Academy Skills
 
-Seven [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) distilled from Anthropic Academy's Skilljar courses. Each `SKILL.md` is an original, condensed reference guide (not a verbatim copy of course text) covering the course's key concepts, organized for quick lookup and written to trigger automatically in Claude Code / Claude Desktop / Cowork when a relevant question comes up.
+Eight [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) distilled from Anthropic Academy's Skilljar courses. Each `SKILL.md` is an original, condensed reference guide (not a verbatim copy of course text) covering the course's key concepts, organized for quick lookup and written to trigger automatically in Claude Code / Claude Desktop / Cowork when a relevant question comes up.
 
 ## Skills
 
@@ -13,6 +13,7 @@ Seven [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-ski
 | [`agentic-coding-advanced`](skills/agentic-coding-advanced/SKILL.md) | [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) | Steering long sessions, CLAUDE.md that's actually followed, permission modes, hooks, headless mode/Agent SDK, CI review actions, packaging as plugins |
 | [`ai-fluency-framework`](skills/ai-fluency-framework/SKILL.md) | [AI Fluency Framework Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations) | Automation/Augmentation/Agency, generative AI fundamentals, the 4D competencies (Delegation, Description, Discernment, Diligence) |
 | [`building-agents-with-the-api`](skills/building-agents-with-the-api/SKILL.md) | [Claude with the Anthropic API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) | Messages API mechanics, prompt evaluation/engineering, custom tool-use loops, RAG, extended thinking/images/PDFs/citations/caching, building an MCP client & server, workflow vs. agent patterns |
+| [`mcp-fundamentals`](skills/mcp-fundamentals/SKILL.md) | [Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol) | The problem MCP solves, client/server architecture and transports, the ListTools/CallTool/ReadResource/GetPrompt message flow, building an MCP server and client with the Python SDK, the Inspector, and the tools/resources/prompts decision guide (model-, app-, and user-controlled) |
 
 ## Using these skills
 
