@@ -1,6 +1,6 @@
 # Anthropic Academy Skills
 
-Nineteen [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) distilled from Anthropic Academy's Skilljar courses. Each `SKILL.md` is an original, condensed reference guide (not a verbatim copy of course text) covering the course's key concepts, organized for quick lookup and written to trigger automatically in Claude Code / Claude Desktop / Cowork when a relevant question comes up.
+Twenty [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) distilled from Anthropic Academy's Skilljar courses. Each `SKILL.md` is an original, condensed reference guide (not a verbatim copy of course text) covering the course's key concepts, organized for quick lookup and written to trigger automatically in Claude Code / Claude Desktop / Cowork when a relevant question comes up.
 
 ## Skills
 
@@ -27,6 +27,8 @@ Nineteen [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-
 | [`ai-capabilities-and-limitations`](skills/ai-capabilities-and-limitations/SKILL.md) | [AI Capabilities and Limitations](https://anthropic.skilljar.com/ai-capabilities-and-limitations) | The machine-side counterpart to the 4Ds: training's behavioral fingerprints (sycophancy, verbosity, over-caution), and the four capability-to-limitation properties - Next Token Prediction (hallucination), Knowledge (cutoff, staleness, source amnesia), Working Memory (the context-window cliff, no learning from corrections), and Steerability (reasoning drift, letter-over-spirit, prompt injection) - plus diagnosing failures where two properties collide |
 
 | [`ai-fluency-for-small-businesses`](skills/ai-fluency-for-small-businesses/SKILL.md) | [AI Fluency for Small Businesses](https://anthropic.skilljar.com/ai-fluency-for-small-businesses) | Applying the 4Ds as a small business owner with no IT/legal team: building a business-context document, stress-testing a tool's reliability against your own domain expertise, the Description-Discernment loop for regulatory/market/competitive research where fabrication and stale data cost money, safely sanitizing sales/customer data before sharing it, building a workflow automation via Product/Process/Performance Description and Creation/Deployment/Transparency Diligence, and writing a one-page customer-facing AI use policy |
+
+| [`ai-fluency-for-builders`](skills/ai-fluency-for-builders/SKILL.md) | [AI Fluency for Builders](https://anthropic.skilljar.com/ai-fluency-for-builders) | Applying the 4Ds to building software with AI: the Builder's Toolkit (six capabilities from empathy to shipping mapped to Automation/Augmentation/Agency), writing acceptance tests before code, the Description Chain (user voice to requirement to spec to AI instruction to tests) and tracing cascading failures upstream, the Five Lenses of Discernment for AI-generated code (functional integrity, production readiness, problem fit, experience quality, responsible impact), the four UX principles AI gets wrong by default (clarity, hierarchy, accessibility, feedback), and full ownership at ship time |
 
 ## Using these skills
 
