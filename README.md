@@ -1,6 +1,6 @@
 # Anthropic Academy Skills
 
-Seventeen [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) distilled from Anthropic Academy's Skilljar courses. Each `SKILL.md` is an original, condensed reference guide (not a verbatim copy of course text) covering the course's key concepts, organized for quick lookup and written to trigger automatically in Claude Code / Claude Desktop / Cowork when a relevant question comes up.
+Eighteen [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) distilled from Anthropic Academy's Skilljar courses. Each `SKILL.md` is an original, condensed reference guide (not a verbatim copy of course text) covering the course's key concepts, organized for quick lookup and written to trigger automatically in Claude Code / Claude Desktop / Cowork when a relevant question comes up.
 
 ## Skills
 
@@ -23,6 +23,8 @@ Seventeen [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent
 | [`ai-fluency-for-nonprofits`](skills/ai-fluency-for-nonprofits/SKILL.md) | [AI Fluency for Nonprofits](https://anthropic.skilljar.com/ai-fluency-for-nonprofits) | Applying the 4Ds at a mission-driven org: funder/policy research, grant and donor writing that preserves organizational voice, sanitizing donor/beneficiary PII before sharing data with AI, validating AI-assisted data analysis against known-answer data, deciding what workflow tasks to automate, and drafting an org-wide AI policy that avoids quiet dependency |
 | [`agent-skills-fundamentals`](skills/agent-skills-fundamentals/SKILL.md) | [Introduction to Agent Skills](https://anthropic.skilljar.com/introduction-to-agent-skills) | How Agent Skills work in Claude Code: SKILL.md structure and frontmatter fields, the Enterprise > Personal > Project > Plugins priority order, progressive disclosure via scripts/references/assets, how skills differ from CLAUDE.md/hooks/subagents/MCP, why subagents don't inherit skills automatically, and a troubleshooting checklist |
 | [`subagent-fundamentals`](skills/subagent-fundamentals/SKILL.md) | [Introduction to Subagents](https://anthropic.skilljar.com/introduction-to-subagents) | Designing and using Claude Code subagents: isolated context/summary-only return, built-in vs. custom subagents via /agents, how the description field shapes both triggering and the input prompt, defining an output format so a subagent knows when it's done, scoping tool access, and three anti-patterns (fake expert personas, dependent pipelines, test runners that hide output) |
+
+| [`ai-capabilities-and-limitations`](skills/ai-capabilities-and-limitations/SKILL.md) | [AI Capabilities and Limitations](https://anthropic.skilljar.com/ai-capabilities-and-limitations) | The machine-side counterpart to the 4Ds: training's behavioral fingerprints (sycophancy, verbosity, over-caution), and the four capability-to-limitation properties - Next Token Prediction (hallucination), Knowledge (cutoff, staleness, source amnesia), Working Memory (the context-window cliff, no learning from corrections), and Steerability (reasoning drift, letter-over-spirit, prompt injection) - plus diagnosing failures where two properties collide |
 
 ## Using these skills
 
