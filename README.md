@@ -1,6 +1,6 @@
 # Anthropic Academy Skills
 
-Twelve [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) distilled from Anthropic Academy's Skilljar courses. Each `SKILL.md` is an original, condensed reference guide (not a verbatim copy of course text) covering the course's key concepts, organized for quick lookup and written to trigger automatically in Claude Code / Claude Desktop / Cowork when a relevant question comes up.
+Thirteen [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) distilled from Anthropic Academy's Skilljar courses. Each `SKILL.md` is an original, condensed reference guide (not a verbatim copy of course text) covering the course's key concepts, organized for quick lookup and written to trigger automatically in Claude Code / Claude Desktop / Cowork when a relevant question comes up.
 
 ## Skills
 
@@ -18,6 +18,7 @@ Twelve [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-sk
 | [`ai-fluency-for-students`](skills/ai-fluency-for-students/SKILL.md) | [AI Fluency for Students](https://anthropic.skilljar.com/ai-fluency-for-students) | Applying the 4D framework to studying: a personal learning-context document, using AI as a learning partner/coach (study protocols, a learning journal), AI for career planning (career exploration, an honest resume workflow, mock interviews), and drafting a personal AI-use policy |
 | [`mcp-advanced-topics`](skills/mcp-advanced-topics/SKILL.md) | [Model Context Protocol: Advanced Topics](https://anthropic.skilljar.com/model-context-protocol-advanced-topics) | Sampling (servers borrowing the client's LLM), log/progress notifications, Roots (scoped filesystem access), the request/result/notification message taxonomy, the stdio transport, and the StreamableHTTP transport (SSE, session IDs, stateless/JSON-response trade-offs for scaling) |
 | [`amazon-bedrock-access`](skills/amazon-bedrock-access/SKILL.md) | [Claude with Amazon Bedrock](https://anthropic.skilljar.com/claude-in-amazon-bedrock) | What changes when Claude is accessed through AWS Bedrock instead of the Anthropic API directly: the boto3 bedrock-runtime client and AWS-native auth, model IDs and cross-region inference profiles, the converse/converse_stream methods and response shape, the toolConfig/toolSpec wrapper for tool use, and running Claude Code against Bedrock |
+| [`google-vertex-access`](skills/google-vertex-access/SKILL.md) | [Claude with Google Vertex](https://anthropic.skilljar.com/claude-with-google-vertex) | What changes when Claude is accessed through Google Cloud Vertex AI instead of the Anthropic API directly: enabling models in the Vertex Model Garden, gcloud CLI/ADC authentication, the AnthropicVertex client and name@version model IDs, and why the Messages API request/response shape and tool schemas carry over unchanged from the direct API |
 
 ## Using these skills
 
