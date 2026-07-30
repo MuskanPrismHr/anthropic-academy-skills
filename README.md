@@ -1,6 +1,6 @@
 # Anthropic Academy Skills
 
-Ten [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) distilled from Anthropic Academy's Skilljar courses. Each `SKILL.md` is an original, condensed reference guide (not a verbatim copy of course text) covering the course's key concepts, organized for quick lookup and written to trigger automatically in Claude Code / Claude Desktop / Cowork when a relevant question comes up.
+Eleven [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) distilled from Anthropic Academy's Skilljar courses. Each `SKILL.md` is an original, condensed reference guide (not a verbatim copy of course text) covering the course's key concepts, organized for quick lookup and written to trigger automatically in Claude Code / Claude Desktop / Cowork when a relevant question comes up.
 
 ## Skills
 
@@ -16,6 +16,7 @@ Ten [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skill
 | [`mcp-fundamentals`](skills/mcp-fundamentals/SKILL.md) | [Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol) | The problem MCP solves, client/server architecture and transports, the ListTools/CallTool/ReadResource/GetPrompt message flow, building an MCP server and client with the Python SDK, the Inspector, and the tools/resources/prompts decision guide (model-, app-, and user-controlled) |
 | [`ai-fluency-for-educators`](skills/ai-fluency-for-educators/SKILL.md) | [AI Fluency for Educators](https://anthropic.skilljar.com/ai-fluency-for-educators) | Applying the 4D framework (Delegation, Description, Discernment, Diligence) to teaching: building a reusable teaching-context document, using it for course/lesson design, and building learning materials and assignments (slides, study guides, quizzes) with academic-integrity considerations |
 | [`ai-fluency-for-students`](skills/ai-fluency-for-students/SKILL.md) | [AI Fluency for Students](https://anthropic.skilljar.com/ai-fluency-for-students) | Applying the 4D framework to studying: a personal learning-context document, using AI as a learning partner/coach (study protocols, a learning journal), AI for career planning (career exploration, an honest resume workflow, mock interviews), and drafting a personal AI-use policy |
+| [`mcp-advanced-topics`](skills/mcp-advanced-topics/SKILL.md) | [Model Context Protocol: Advanced Topics](https://anthropic.skilljar.com/model-context-protocol-advanced-topics) | Sampling (servers borrowing the client's LLM), log/progress notifications, Roots (scoped filesystem access), the request/result/notification message taxonomy, the stdio transport, and the StreamableHTTP transport (SSE, session IDs, stateless/JSON-response trade-offs for scaling) |
 
 ## Using these skills
 
