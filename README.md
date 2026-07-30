@@ -1,6 +1,6 @@
 # Anthropic Academy Skills
 
-Nine [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) distilled from Anthropic Academy's Skilljar courses. Each `SKILL.md` is an original, condensed reference guide (not a verbatim copy of course text) covering the course's key concepts, organized for quick lookup and written to trigger automatically in Claude Code / Claude Desktop / Cowork when a relevant question comes up.
+Ten [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) distilled from Anthropic Academy's Skilljar courses. Each `SKILL.md` is an original, condensed reference guide (not a verbatim copy of course text) covering the course's key concepts, organized for quick lookup and written to trigger automatically in Claude Code / Claude Desktop / Cowork when a relevant question comes up.
 
 ## Skills
 
@@ -15,6 +15,7 @@ Nine [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skil
 | [`building-agents-with-the-api`](skills/building-agents-with-the-api/SKILL.md) | [Claude with the Anthropic API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) | Messages API mechanics, prompt evaluation/engineering, custom tool-use loops, RAG, extended thinking/images/PDFs/citations/caching, building an MCP client & server, workflow vs. agent patterns |
 | [`mcp-fundamentals`](skills/mcp-fundamentals/SKILL.md) | [Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol) | The problem MCP solves, client/server architecture and transports, the ListTools/CallTool/ReadResource/GetPrompt message flow, building an MCP server and client with the Python SDK, the Inspector, and the tools/resources/prompts decision guide (model-, app-, and user-controlled) |
 | [`ai-fluency-for-educators`](skills/ai-fluency-for-educators/SKILL.md) | [AI Fluency for Educators](https://anthropic.skilljar.com/ai-fluency-for-educators) | Applying the 4D framework (Delegation, Description, Discernment, Diligence) to teaching: building a reusable teaching-context document, using it for course/lesson design, and building learning materials and assignments (slides, study guides, quizzes) with academic-integrity considerations |
+| [`ai-fluency-for-students`](skills/ai-fluency-for-students/SKILL.md) | [AI Fluency for Students](https://anthropic.skilljar.com/ai-fluency-for-students) | Applying the 4D framework to studying: a personal learning-context document, using AI as a learning partner/coach (study protocols, a learning journal), AI for career planning (career exploration, an honest resume workflow, mock interviews), and drafting a personal AI-use policy |
 
 ## Using these skills
 
