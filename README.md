@@ -1,6 +1,6 @@
 # Anthropic Academy Skills
 
-Twenty [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) distilled from Anthropic Academy's Skilljar courses. Each `SKILL.md` is an original, condensed reference guide (not a verbatim copy of course text) covering the course's key concepts, organized for quick lookup and written to trigger automatically in Claude Code / Claude Desktop / Cowork when a relevant question comes up.
+Twenty-one [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) distilled from Anthropic Academy's Skilljar courses. Each `SKILL.md` is an original, condensed reference guide (not a verbatim copy of course text) covering the course's key concepts, organized for quick lookup and written to trigger automatically in Claude Code / Claude Desktop / Cowork when a relevant question comes up.
 
 ## Skills
 
@@ -29,6 +29,8 @@ Twenty [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-sk
 | [`ai-fluency-for-small-businesses`](skills/ai-fluency-for-small-businesses/SKILL.md) | [AI Fluency for Small Businesses](https://anthropic.skilljar.com/ai-fluency-for-small-businesses) | Applying the 4Ds as a small business owner with no IT/legal team: building a business-context document, stress-testing a tool's reliability against your own domain expertise, the Description-Discernment loop for regulatory/market/competitive research where fabrication and stale data cost money, safely sanitizing sales/customer data before sharing it, building a workflow automation via Product/Process/Performance Description and Creation/Deployment/Transparency Diligence, and writing a one-page customer-facing AI use policy |
 
 | [`ai-fluency-for-builders`](skills/ai-fluency-for-builders/SKILL.md) | [AI Fluency for Builders](https://anthropic.skilljar.com/ai-fluency-for-builders) | Applying the 4Ds to building software with AI: the Builder's Toolkit (six capabilities from empathy to shipping mapped to Automation/Augmentation/Agency), writing acceptance tests before code, the Description Chain (user voice to requirement to spec to AI instruction to tests) and tracing cascading failures upstream, the Five Lenses of Discernment for AI-generated code (functional integrity, production readiness, problem fit, experience quality, responsible impact), the four UX principles AI gets wrong by default (clarity, hierarchy, accessibility, feedback), and full ownership at ship time |
+
+| [`ai-fluency-for-pk-12-educators`](skills/ai-fluency-for-pk-12-educators/SKILL.md) | [AI Fluency for pK-12 Educators](https://anthropic.skilljar.com/path/ai-fluency-for-pk-12-educators) | Applying the 4Ds in a pK-12 classroom: the Description-Discernment loop for differentiated instructional materials with an accuracy/reading-level/fit checklist, the Delegation-Diligence loop for student data under FERPA and district-approved tools, naming K-12-specific ethical tensions (dependency, de-socialization, bias, student agency, equity of access, environmental impact), building a personal AI value document (Intentions/Principles/Boundaries), running a full end-to-end 4D workflow, and facilitating a train-the-trainer workshop for colleagues |
 
 ## Using these skills
 
