@@ -1,6 +1,6 @@
 # Anthropic Academy Skills
 
-Eighteen [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) distilled from Anthropic Academy's Skilljar courses. Each `SKILL.md` is an original, condensed reference guide (not a verbatim copy of course text) covering the course's key concepts, organized for quick lookup and written to trigger automatically in Claude Code / Claude Desktop / Cowork when a relevant question comes up.
+Nineteen [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) distilled from Anthropic Academy's Skilljar courses. Each `SKILL.md` is an original, condensed reference guide (not a verbatim copy of course text) covering the course's key concepts, organized for quick lookup and written to trigger automatically in Claude Code / Claude Desktop / Cowork when a relevant question comes up.
 
 ## Skills
 
@@ -25,6 +25,8 @@ Eighteen [Claude Skills](https://docs.claude.com/en/docs/agents-and-tools/agent-
 | [`subagent-fundamentals`](skills/subagent-fundamentals/SKILL.md) | [Introduction to Subagents](https://anthropic.skilljar.com/introduction-to-subagents) | Designing and using Claude Code subagents: isolated context/summary-only return, built-in vs. custom subagents via /agents, how the description field shapes both triggering and the input prompt, defining an output format so a subagent knows when it's done, scoping tool access, and three anti-patterns (fake expert personas, dependent pipelines, test runners that hide output) |
 
 | [`ai-capabilities-and-limitations`](skills/ai-capabilities-and-limitations/SKILL.md) | [AI Capabilities and Limitations](https://anthropic.skilljar.com/ai-capabilities-and-limitations) | The machine-side counterpart to the 4Ds: training's behavioral fingerprints (sycophancy, verbosity, over-caution), and the four capability-to-limitation properties - Next Token Prediction (hallucination), Knowledge (cutoff, staleness, source amnesia), Working Memory (the context-window cliff, no learning from corrections), and Steerability (reasoning drift, letter-over-spirit, prompt injection) - plus diagnosing failures where two properties collide |
+
+| [`ai-fluency-for-small-businesses`](skills/ai-fluency-for-small-businesses/SKILL.md) | [AI Fluency for Small Businesses](https://anthropic.skilljar.com/ai-fluency-for-small-businesses) | Applying the 4Ds as a small business owner with no IT/legal team: building a business-context document, stress-testing a tool's reliability against your own domain expertise, the Description-Discernment loop for regulatory/market/competitive research where fabrication and stale data cost money, safely sanitizing sales/customer data before sharing it, building a workflow automation via Product/Process/Performance Description and Creation/Deployment/Transparency Diligence, and writing a one-page customer-facing AI use policy |
 
 ## Using these skills
 
